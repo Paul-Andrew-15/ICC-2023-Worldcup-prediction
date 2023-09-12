@@ -1,0 +1,723 @@
+Date,Team_1,Team_2,Winner,Margin,Ground
+17/04/2015,Bangladesh ,Pakistan,Bangladesh ,won by 79 runs,Shere Bangla National Stadium
+19/04/2015,Bangladesh ,Pakistan,Bangladesh ,won by 7 wickets,Shere Bangla National Stadium
+22/04/2015,Bangladesh ,Pakistan,Bangladesh ,won by 8 wickets,Shere Bangla National Stadium
+08/05/2015,Ireland ,England,No result,No result,The Village
+26/05/2015,Pakistan ,Zimbabwe,Pakistan ,won by 41 runs,Gaddafi Stadium
+29/05/2015,Pakistan ,Zimbabwe,Pakistan ,won by 6 wickets,Gaddafi Stadium
+31/05/2015,Pakistan ,Zimbabwe,No result,No result,Gaddafi Stadium
+09/06/2015,England ,New Zealand,England ,won by 210 runs,Edgbaston
+12/06/2015,England,New Zealand,New Zealand ,won by 13 runs,Kennington Oval
+14/06/2015,England ,New Zealand,New Zealand ,won by 3 wickets,The Rose Bowl
+17/06/2015,England ,New Zealand,England,won by 7 wickets,Trent Bridge
+18/06/2015,Bangladesh,India,Bangladesh ,won by 79 runs,Shere Bangla National Stadium
+20/06/2015,England ,New Zealand,England,won by 3 wickets,Riverside Ground
+21/06/2015,Bangladesh ,India,Bangladesh ,won by 6 wickets,Shere Bangla National Stadium
+24/06/2015,Bangladesh ,India,India,won by 77 runs,Shere Bangla National Stadium
+10/07/2015,Bangladesh ,South Africa,South Africa,won by 8 wickets,Shere Bangla National Stadium
+10/07/2015,Zimbabwe ,India,India,won by 4 runs,Harare Sports Club
+11/07/2015,Sri Lanka ,Pakistan,Pakistan,won by 6 wickets,Rangiri Dambulla International Stadium
+12/07/2015,Bangladesh ,South Africa,Bangladesh ,won by 7 wickets,Shere Bangla National Stadium
+12/07/2015,Zimbabwe ,India,India,won by 62 runs,Harare Sports Club
+14/07/2015,Zimbabwe ,India,India,won by 83 runs,Harare Sports Club
+15/07/2015,Sri Lanka ,Pakistan,Sri Lanka ,won by 2 wickets,Pallekele International Cricket Stadium
+15/07/2015,Bangladesh ,South Africa,Bangladesh,won by 9 wickets,Zahur Ahmed Chowdhury Stadium
+19/07/2015,Sri Lanka ,Pakistan,Pakistan,won by 135 runs,R Premadasa Stadium
+22/07/2015,Sri Lanka ,Pakistan,Pakistan,won by 7 wickets,R Premadasa Stadium
+26/07/2015,Sri Lanka ,Pakistan,Sri Lanka,won by 165 runs,Mahinda Rajapaksha International Cricket Stadium
+02/08/2015,Zimbabwe ,New Zealand,Zimbabwe ,won by 7 wickets,Harare Sports Club
+04/08/2015,Zimbabwe ,New Zealand,New Zealand,won by 10 wickets,Harare Sports Club
+07/08/2015,Zimbabwe ,New Zealand,New Zealand,won by 38 runs,Harare Sports Club
+19/08/2015,South Africa,New Zealand,South Africa,won by 20 runs,SuperSport Park
+23/08/2015,South Africa ,New Zealand,New Zealand ,won by 8 wickets,Senwes Park
+26/08/2015,South Africa ,New Zealand,South Africa,won by 62 runs,Kingsmead
+27/08/2015,Ireland ,Australia,Australia ,won by 23 runs,Civil Service Cricket Club
+03/09/2015,England ,Australia,Australia ,won by 59 runs,The Rose Bowl
+05/09/2015,England ,Australia,Australia ,won by 64 runs,Lord's
+08/09/2015,England,Australia,England,won by 93 runs,Old Trafford
+11/09/2015,England ,Australia,England,won by 3 wickets,Headingley
+12/09/2015,England ,Australia,Australia,won by 8 wickets,Old Trafford
+01/10/2015,Zimbabwe ,Pakistan,Pakistan,won by 131 runs,Harare Sports Club
+03/10/2015,Zimbabwe ,Pakistan,Zimbabwe,won by 5 runs,Harare Sports Club
+05/10/2015,Zimbabwe ,Pakistan,Pakistan,won by 7 wickets,Harare Sports Club
+14/10/2015,India ,South Africa,India ,won by 22 runs,Holkar Cricket Stadium
+16/10/2015,Zimbabwe ,Afghanistan,Zimbabwe,won by 8 wickets,Queens Sports Club
+18/10/2015,Zimbabwe,Afghanistan,Afghanistan ,won by 58 runs,Queens Sports Club
+18/10/2015,India ,South Africa,South Africa,South Africa won by 18 runs,Saurashtra Cricket Association Stadium
+20/10/2015,Zimbabwe ,Afghanistan,Zimbabwe,Zimbabwe won by 6 wickets,Queens Sports Club
+22/10/2015,India ,South Africa,India,India won by 35 runs,MA Chidambaram Stadium
+22/10/2015,Zimbabwe ,Afghanistan,Afghanistan,Afghanistan won by 3 wickets,Queens Sports Club
+24/10/2015,Zimbabwe ,Afghanistan,Afghanistan,Afghanistan won by 73 runs,Queens Sports Club
+25/10/2015,India ,South Africa,South Africa,South Africa won by 214 runs,Wankhede Stadium
+01/11/2015,Sri Lanka ,West Indies,Sri Lanka,Sri Lanka won by 1 wicket,R Premadasa Stadium
+04/11/2015,Sri Lanka ,West Indies,Sri Lanka,Sri Lanka won by 8 wickets,R Premadasa Stadium
+07/11/2015,Bangladesh ,Zimbabwe,Bangladesh ,Bangladesh won by 145 runs,Shere Bangla National Stadium
+07/11/2015,Sri Lanka,West Indies,Sri Lanka,Sri Lanka won by 19 runs,Pallekele International Cricket Stadium
+09/11/2015,Bangladesh ,Zimbabwe,Bangladesh ,Bangladesh won by 58 runs,Shere Bangla National Stadium
+11/11/2015,Pakistan ,England,Pakistan,Pakistan won by 6 wickets,Sheikh Zayed Stadium
+11/11/2015,Bangladesh,Zimbabwe,Bangladesh,Bangladesh won by 61 runs,Shere Bangla National Stadium
+13/11/2015,Pakistan ,England,England ,England won by 95 runs,Sheikh Zayed Stadium
+17/11/2015,Pakistan ,England,England ,England won by 6 wickets,Sharjah Cricket Stadium
+20/11/2015,Pakistan,England,England,England won by 84 runs,Dubai International Cricket Stadium
+25/12/2015,Afghanistan ,Zimbabwe,Afghanistan,Afghanistan won by 49 runs,Sharjah Cricket Stadium
+26/12/2015,New Zealand ,Sri Lanka,New Zealand,New Zealand won by 7 wickets,Hagley Oval
+28/12/2015,New Zealand ,Sri Lanka,New Zealand,New Zealand won by 10 wickets,Hagley Oval
+29/12/2015,Afghanistan ,Zimbabwe,Afghanistan,Afghanistan won by 4 wickets,Sharjah Cricket Stadium
+31/12/2015,New Zealand ,Sri Lanka,Sri Lanka ,Sri Lanka won by 8 wickets,Saxton Oval
+02/01/2016,Afghanistan ,Zimbabwe,Zimbabwe,won by 117 runs,Sharjah Cricket Stadium
+02/01/2016,New Zealand ,Sri Lanka,No result,No result,Saxton Oval
+04/01/2016,Afghanistan ,Zimbabwe,Zimbabwe,won by 65 runs,Sharjah Cricket Stadium
+05/01/2016,New Zealand ,Sri Lanka,New Zealand,won by 36 runs,Bay Oval
+06/01/2016,Afghanistan ,Zimbabwe,Afghanistan,won by 2 wickets,Sharjah Cricket Stadium
+12/01/2016,Australia ,India,Australia,won by 5 wickets,WACA Ground
+15/01/2016,Australia ,India,Australia,won by 7 wickets,Brisbane Cricket Ground
+20/01/2016,Australia ,India,Australia,won by 25 runs,Manuka Oval
+23/01/2016,Australia ,India,India,won by 6 wickets,Sydney Cricket Ground
+25/01/2016,New Zealand ,Pakistan,New Zealand,won by 70 runs,Basin Reserve
+28/01/2016,New Zealand ,Pakistan,Match abandoned,Match abandoned,McLean Park
+31/01/2016,New Zealand,Pakistan,New Zealand,won by 3 wickets,Eden Park
+03/02/2016,New Zealand ,Australia,New Zealand,won by 159 runs,Eden Park
+03/02/2016,South Africa ,England,England,won by 39 runs,Mangaung Oval
+06/02/2016,New Zealand ,Australia,Australia,won by 4 wickets,Sky Stadium
+06/02/2016,South Africa ,England,England,won by 5 wickets,St George's Park
+08/02/2016,New Zealand,Australia,New Zealand,won by 55 runs,Seddon Park
+09/02/2016,South Africa ,England,South Africa,won by 7 wickets,SuperSport Park
+12/02/2016,South Africa ,England,South Africa,won by 1 wicket,Wanderers Stadium
+14/02/2016,South Africa ,England,South Africa,won by 5 wickets,Newlands
+05/06/2016,West Indies ,Australia,Australia,won by 6 wickets,Providence Stadium
+07/06/2016,Australia ,South Africa,South Africa,won by 47 runs,Providence Stadium
+11/06/2016,Zimbabwe,India,India,won by 9 wickets,Harare Sports Club
+11/06/2016,Australia,South Africa,Australia,won by 36 runs,Warner Park
+13/06/2016,Zimbabwe ,India,India,won by 8 wickets,Harare Sports Club
+13/06/2016,West Indies ,Australia,West Indies,won by 4 wickets,Warner Park
+15/06/2016,Zimbabwe ,India,India,won by 10 wickets,Harare Sports Club
+15/06/2016,West Indies ,South Africa,South Africa,won by 139 runs,Warner Park
+16/06/2016,Ireland ,Sri Lanka,Sri Lanka,won by 76 runs,The Village
+18/06/2016,Ireland ,Sri Lanka,Sri Lanka,won by 136 runs,The Village
+19/06/2016,Australia ,South Africa,No result,No result,Kensington Oval
+21/06/2016,England ,Sri Lanka,Match Tied,Match Tied,Trent Bridge
+21/06/2016,West Indies ,Australia,Australia,won by 6 wickets,Kensington Oval
+24/06/2016,England ,Sri Lanka,England,won by 10 wickets,Edgbaston
+24/06/2016,West Indies ,South Africa,West Indies,won by 100 runs,Kensington Oval
+26/06/2016,England,Sri Lanka,No result,No result,County Ground (Bristol)
+26/06/2016,West Indies ,Australia,Australia,won by 58 runs,Kensington Oval
+29/06/2016,England ,Sri Lanka,England,won by 6 wickets,Kennington Oval
+02/07/2016,England ,Sri Lanka,England,won by 122 runs,Sophia Gardens
+04/07/2016,Scotland ,Afghanistan,No result,No result,Grange Cricket Club
+06/07/2016,Scotland ,Afghanistan,Afghanistan,won by 78 runs,Grange Cricket Club
+10/07/2016,Ireland,Afghanistan,Match abandoned,Match abandoned,Civil Service Cricket Club
+12/07/2016,Ireland,Afghanistan,Afghanistan,won by 39 runs,Civil Service Cricket Club
+14/07/2016,Ireland,Afghanistan,Ireland,won by 6 wickets,Civil Service Cricket Club
+17/07/2016,Ireland ,Afghanistan,Afghanistan,won by 79 runs,Civil Service Cricket Club
+19/07/2016,Ireland ,Afghanistan,Ireland,won by 12 runs,Civil Service Cricket Club
+18/08/2016,Ireland ,Pakistan,Pakistan,won by 255 runs,The Village
+20/08/2016,Ireland ,Pakistan,Match abandoned,Match abandoned,The Village
+21/08/2016,Sri Lanka ,Australia,Australia,won by 3 wickets,R Premadasa Stadium
+24/08/2016,England ,Pakistan,England,won by 44 runs,The Rose Bowl
+24/08/2016,Sri Lanka ,Australia,Sri Lanka,won by 82 runs,R Premadasa Stadium
+27/08/2016,England ,Pakistan,England,won by 4 wickets,Lord's
+28/08/2016,Sri Lanka ,Australia,Australia,won by 2 wickets,Rangiri Dambulla International Stadium
+30/08/2016,England ,Pakistan,England,won by 169 runs,Trent Bridge
+31/08/2016,Sri Lanka ,Australia,Australia,won by 6 wickets,Rangiri Dambulla International Stadium
+01/09/2016,England ,Pakistan,England,won by 4 wickets,Headingley
+04/09/2016,England ,Pakistan,Pakistan,won by 4 wickets,Sophia Gardens
+04/09/2016,Sri Lanka ,Australia,Australia,won by 5 wickets,Pallekele International Cricket Stadium
+25/09/2016,Bangladesh ,Afghanistan,Bangladesh,won by 7 runs,Shere Bangla National Stadium
+25/09/2016,South Africa ,Ireland,South Africa,won by 206 runs,Willowmoore Park
+27/09/2016,Australia ,Ireland,Australia,won by 9 wickets,Willowmoore Park
+28/09/2016,Bangladesh ,Afghanistan,Afghanistan,won by 2 wickets,Shere Bangla National Stadium
+30/09/2016,Pakistan ,West Indies,Pakistan,won by 111 runs,Sharjah Cricket Stadium
+30/09/2016,South Africa ,Australia,South Africa,won by 6 wickets,SuperSport Park
+01/10/2016,Bangladesh ,Afghanistan,Bangladesh,won by 141 runs,Shere Bangla National Stadium
+02/10/2016,Pakistan ,West Indies,Pakistan,won by 59 runs,Sharjah Cricket Stadium
+02/10/2016,South Africa ,Australia,South Africa,won by 142 runs,Wanderers Stadium
+05/10/2016,Pakistan ,West Indies,Pakistan,won by 136 runs,Sheikh Zayed Stadium
+05/10/2016,South Africa ,Australia,South Africa,won by 4 wickets,Kingsmead
+07/10/2016,Bangladesh ,England,England,won by 21 runs,Shere Bangla National Stadium
+08/10/2016,South Africa ,Australia,South Africa,won by 6 wickets,St George's Park
+09/10/2016,Bangladesh ,England,Bangladesh,won by 34 runs,Shere Bangla National Stadium
+12/10/2016,Bangladesh ,England,England,won by 4 wickets,Zahur Ahmed Chowdhury Stadium
+12/10/2016,South Africa ,Australia,South Africa,won by 31 runs,Newlands
+16/10/2016,India ,New Zealand,India,won by 6 wickets,Himachal Pradesh Cricket Association Stadium
+20/10/2016,India ,New Zealand,New Zealand,won by 6 runs,Arun Jaitley Stadium
+23/10/2016,India,New Zealand,India,won by 7 wickets,Punjab Cricket Association IS Bindra Stadium
+26/10/2016,India ,New Zealand,New Zealand,won by 19 runs,JSCA International Stadium Complex
+29/10/2016,India ,New Zealand,India,won by 190 runs,Dr YS Rajasekhara Reddy Cricket Stadium
+14/11/2016,Zimbabwe ,Sri Lanka,Sri Lanka,won by 8 wickets,Harare Sports Club
+16/11/2016,Sri Lanka ,West Indies,West Indies,won by 62 runs,Harare Sports Club
+19/11/2016,Zimbabwe ,West Indies,Match Tied,Match Tied,Queens Sports Club
+21/11/2016,Zimbabwe ,Sri Lanka,No result,No result,Queens Sports Club
+23/11/2016,Sri Lanka ,West Indies,Sri Lanka,won by 1 run,Queens Sports Club
+25/11/2016,Zimbabwe,West Indies,Zimbabwe,won by 5 runs,Queens Sports Club
+27/11/2016,Zimbabwe,Sri Lanka,Sri Lanka,won by 6 wickets,Queens Sports Club
+04/12/2016,Australia ,New Zealand,Australia,won by 68 runs,Sydney Cricket Ground
+06/12/2016,Australia ,New Zealand,Australia,won by 116 runs,Manuka Oval
+09/12/2016,Australia ,New Zealand,Australia,won by 117 runs,Melbourne Cricket Ground
+26/12/2016,New Zealand,Bangladesh,New Zealand,won by 77 runs,Hagley Oval
+29/12/2016,New Zealand ,Bangladesh,New Zealand,won by 67 runs,Saxton Oval
+31/12/2016,New Zealand ,Bangladesh,New Zealand,won by 8 wickets,Saxton Oval
+13/01/2017,Australia ,Pakistan,Australia ,won by 92 runs,Brisbane Cricket Ground
+15/01/2017,India, England,India ,won by 3 wickets,Maharashtra Cricket Association Stadium
+15/01/2017,Australia ,Pakistan,Pakistan, won by 6 wickets,Melbourne Cricket Ground
+19/01/2017,India , England,India ,won by 15 runs,Barabati Stadium
+19/01/2017,Australia, Pakistan,Australia, won by 7 wickets,WACA Ground
+22/01/2017,India,England,England ,won by 5 runs,Eden Gardens
+22/01/2017,Australia,Pakistan,Australia, won by 86 runs,Sydney Cricket Ground
+26/01/2017,Australia, Pakistan,Australia, won by 57 runs,Adelaide Oval
+28/01/2017,South Africa ,Sri Lanka,South Africa ,won by 8 wickets,St George's Park
+30/01/2017,New Zealand, Australia,New Zealand ,won by 6 runs,Eden Park
+01/02/2017,South Africa,Sri Lanka,South Africa ,won by 121 runs,Kingsmead
+02/02/2017,New Zealand ,Australia,Match abandoned,Match abandoned,McLean Park
+04/02/2017,South Africa,Sri Lanka,South Africa ,won by 7 wickets,Wanderers Stadium
+05/02/2017,New Zealand , Australia,New Zealand, won by 24 runs,Seddon Park
+07/02/2017,South Africa, Sri Lanka,South Africa, won by 40 runs,Newlands
+10/02/2017,South Africa ,Sri Lanka,South Africa ,won by 88 runs,SuperSport Park
+16/02/2017,Zimbabwe, Afghanistan,Afghanistan ,won by 12 runs,Harare Sports Club
+19/02/2017,New Zealand,South Africa,South Africa ,won by 4 wickets,Seddon Park
+19/02/2017,Zimbabwe , Afghanistan,Afghanistan, won by 54 runs,Harare Sports Club
+21/02/2017,Zimbabwe, Afghanistan,Zimbabwe ,won by 3 runs,Harare Sports Club
+22/02/2017,New Zealand ,South Africa,New Zealand ,won by 6 runs,Hagley Oval
+24/02/2017,Zimbabwe ,Afghanistan,Zimbabwe ,won by 7 wickets,Harare Sports Club
+25/02/2017,New Zealand ,South Africa,South Africa ,won by 159 runs,Sky Stadium
+26/02/2017,Zimbabwe,Afghanistan,Afghanistan ,won by 106 runs,Harare Sports Club
+01/03/2017,New Zealand ,South Africa,New Zealand ,won by 7 wickets,Seddon Park
+03/03/2017,West Indies ,England,England ,won by 45 runs,Sir Vivian Richards Stadium
+04/03/2017,New Zealand ,South Africa,South Africa ,won by 6 wickets,Eden Park
+05/03/2017,West Indies ,England,England ,won by 4 wickets,Sir Vivian Richards Stadium
+09/03/2017,West Indies ,England,England, won by 186 runs,Kensington Oval
+15/03/2017,Afghanistan,Ireland,Afghanistan, won by 30 runs,Greater Noida Sports Complex Ground
+17/03/2017,Afghanistan,Ireland,Afghanistan, won by 34 runs,Greater Noida Sports Complex Ground
+19/03/2017,Afghanistan ,Ireland,Ireland ,won by 6 wickets,Greater Noida Sports Complex Ground
+22/03/2017,Afghanistan,Ireland,Ireland ,won by 3 wickets,Greater Noida Sports Complex Ground
+24/03/2017,Afghanistan ,Ireland,Afghanistan ,won by 7 wickets,Greater Noida Sports Complex Ground
+25/03/2017,Sri Lanka ,Bangladesh,Bangladesh ,won by 90 runs,Rangiri Dambulla International Stadium
+28/03/2017,Sri Lanka,Bangladesh,No result,No result,Rangiri Dambulla International Stadium
+01/04/2017,Sri Lanka ,Bangladesh,Sri Lanka,won by 70 runs,Sinhalese Sports Club Ground
+07/04/2017,West Indies,Pakistan,West Indies ,won by 4 wickets,Providence Stadium
+09/04/2017,West Indies ,Pakistan,Pakistan ,won by 74 runs,Providence Stadium
+11/04/2017,West Indies ,Pakistan,Pakistan ,won by 6 wickets,Providence Stadium
+05/05/2017,England,Ireland,England ,won by 7 wickets,County Ground (Bristol)
+07/05/2017,England,Ireland,England ,won by 85 runs,Lord's
+12/05/2017,Ireland,Bangladesh,No result,No result,The Village
+14/05/2017,Ireland ,New Zealand,New Zealand, won by 51 runs,The Village
+17/05/2017,Bangladesh,New Zealand,New Zealand ,won by 4 wickets,Castle Avenue
+19/05/2017,Ireland,Bangladesh,Bangladesh ,won by 8 wickets,The Village
+21/05/2017,Ireland ,New Zealand,New Zealand ,won by 190 runs,The Village
+24/05/2017,England ,South Africa,England ,won by 72 runs,Headingley
+24/05/2017,Bangladesh ,New Zealand,Bangladesh ,won by 5 wickets,Castle Avenue
+27/05/2017,England ,South Africa,England ,won by 2 runs,The Rose Bowl
+29/05/2017,England ,South Africa,South Africa ,won by 7 wickets,Lord's
+01/06/2017,England ,Bangladesh,England, won by 8 wickets,Kennington Oval
+02/06/2017,Australia ,New Zealand,No result,No result,Edgbaston
+03/06/2017,Sri Lanka ,South Africa,South Africa ,won by 96 runs,Kennington Oval
+04/06/2017,India ,Pakistan,India ,won by 124 runs,Edgbaston
+05/06/2017,Australia ,Bangladesh,No result,No result,Kennington Oval
+06/06/2017,England ,New Zealand,England, won by 87 runs,Sophia Gardens
+07/06/2017,Pakistan ,South Africa,Pakistan, won by 19 runs,Edgbaston
+08/06/2017,India ,Sri Lanka,Sri Lanka ,won by 7 wickets,Kennington Oval
+09/06/2017,West Indies,Afghanistan,Afghanistan,won by 63 runs,Daren Sammy National Cricket Stadium
+09/06/2017,New Zealand ,Bangladesh,Bangladesh ,won by 5 wickets,Sophia Gardens
+10/06/2017,England ,Australia,England ,won by 40 runs,Edgbaston
+11/06/2017,West Indies ,Afghanistan,West Indies ,won by 4 wickets,Daren Sammy National Cricket Stadium
+11/06/2017,India ,South Africa,India ,won by 8 wickets,Kennington Oval
+12/06/2017,Sri Lanka,Pakistan,Pakistan ,won by 3 wickets,Sophia Gardens
+14/06/2017,West Indies, Afghanistan,No result,No result,Daren Sammy National Cricket Stadium
+14/06/2017,England ,Pakistan,Pakistan ,won by 8 wickets,Sophia Gardens
+15/06/2017,Bangladesh,India,India ,won by 9 wickets,Edgbaston
+18/06/2017,India,Pakistan,Pakistan ,won by 180 runs,Kennington Oval
+23/06/2017,West Indies ,India,No result,No result,Queen's Park Oval
+25/06/2017,West Indies ,India,India ,won by 105 runs,Queen's Park Oval
+30/06/2017,Sri Lanka ,Zimbabwe,Zimbabwe ,won by 6 wickets,Galle International Stadium
+30/06/2017,West Indies,India,India ,won by 93 runs,Sir Vivian Richards Stadium
+02/07/2017,Sri Lanka ,Zimbabwe,Sri Lanka ,won by 7 wickets,Galle International Stadium
+02/07/2017,West Indies,India,West Indies ,won by 11 runs,Sir Vivian Richards Stadium
+06/07/2017,Sri Lanka ,Zimbabwe,Sri Lanka ,won by 8 wickets,Mahinda Rajapaksha International Cricket Stadium
+06/07/2017,West Indies ,India,India ,won by 8 wickets,Sabina Park
+08/07/2017,Sri Lanka ,Zimbabwe,Zimbabwe ,won by 4 wickets,Mahinda Rajapaksha International Cricket Stadium
+10/07/2017,Sri Lanka ,Zimbabwe,Zimbabwe ,won by 3 wickets,Mahinda Rajapaksha International Cricket Stadium
+20/08/2017,Sri Lanka ,India,India ,won by 9 wickets,Rangiri Dambulla International Stadium
+24/08/2017,Sri Lanka ,India,India ,won by 3 wickets,Pallekele International Cricket Stadium
+27/08/2017,Sri Lanka ,India,India ,won by 6 wickets,Pallekele International Cricket Stadium
+31/08/2017,Sri Lanka ,India,India ,won by 168 runs,R Premadasa Stadium
+03/09/2017,Sri Lanka,India,India ,won by 6 wickets,R Premadasa Stadium
+17/09/2017,India ,Australia,India ,won by 26 runs,MA Chidambaram Stadium
+19/09/2017,England ,West Indies,England ,won by 7 wickets,Old Trafford
+21/09/2017,England , West Indies,No result,No result,Trent Bridge
+21/09/2017,India,Australia,India ,won by 50 runs,Eden Gardens
+24/09/2017,England,West Indies,England ,won by 124 runs,County Ground (Bristol)
+24/09/2017,India,Australia,India ,won by 5 wickets,Holkar Cricket Stadium
+27/09/2017,England ,West Indies,England ,won by 6 runs,Kennington Oval
+28/09/2017,India ,Australia,Australia ,won by 21 runs,M Chinnaswamy Stadium
+29/09/2017,England,West Indies,England ,won by 9 wickets,The Rose Bowl
+01/10/2017,India,Australia,India ,won by 7 wickets,Vidarbha Cricket Association Stadium
+13/10/2017,Pakistan ,Sri Lanka,Pakistan ,won by 83 runs,Dubai International Cricket Stadium
+15/10/2017,South Africa ,Bangladesh,South Africa ,won by 10 wickets,Diamond Oval
+16/10/2017,Pakistan ,Sri Lanka,Pakistan ,won by 32 runs,Sheikh Zayed Stadium
+18/10/2017,South Africa ,Bangladesh,South Africa ,won by 104 runs,Boland Park
+18/10/2017,Pakistan ,Sri Lanka,Pakistan ,won by 7 wickets,Sheikh Zayed Stadium
+20/10/2017,Pakistan ,Sri Lanka,Pakistan ,won by 7 wickets,Sharjah Cricket Stadium
+22/10/2017,India ,New Zealand,New Zealand ,won by 6 wickets,Wankhede Stadium
+22/10/2017,South Africa ,Bangladesh,South Africa,won by 200 runs,Buffalo Park
+23/10/2017,Pakistan ,Sri Lanka,Pakistan ,won by 9 wickets,Sharjah Cricket Stadium
+25/10/2017,India ,New Zealand,India ,won by 6 wickets,Maharashtra Cricket Association Stadium
+29/10/2017,India ,New Zealand,India ,won by 6 runs,Green Park
+05/12/2017,Afghanistan,Ireland,Afghanistan ,won by 4 wickets,Sharjah Cricket Stadium
+07/12/2017,Afghanistan ,Ireland,Ireland ,won by 51 runs,Sharjah Cricket Stadium
+10/12/2017,India ,Sri Lanka,Sri Lanka ,won by 7 wickets,Himachal Pradesh Cricket Association Stadium
+10/12/2017,Afghanistan ,Ireland,Ireland ,won by 5 wicketsp,Sharjah Cricket Stadium
+13/12/2017,India ,Sri Lanka,India ,won by 141 runs,Punjab Cricket Association IS Bindra Stadium
+17/12/2017,India ,Sri Lanka,India ,won by 8 wickets,Dr YS Rajasekhara Reddy Cricket Stadium
+20/12/2017,New Zealand, West Indies,New Zealand ,won by 5 wickets,Cobham Oval (New)
+23/12/2017,New Zealand ,West Indies,New Zealand ,won by 204 runs,Hagley Oval
+26/12/2017,New Zealand ,West Indies,New Zealand ,won by 66 runs,Hagley Oval
+06/01/2018,New Zealand,Pakistan,New Zealand,won by 61 runs,Basin Reserve
+08/01/2018,New Zealand ,Pakistan,New Zealand,won by 8 wickets,Saxton Oval
+13/01/2018,New Zealand ,Pakistan,New Zealand,won by 183 runs,University Oval
+14/01/2018,Australia ,England,England,won by 5 wickets,Melbourne Cricket Ground
+15/01/2018,Bangladesh ,Zimbabwe,Bangladesh,won by 8 wickets,Shere Bangla National Stadium
+16/01/2018,New Zealand ,Pakistan,New Zealand,won by 5 wickets,Seddon Park
+17/01/2018,Sri Lanka ,Zimbabwe,Zimbabwe,won by 12 runs,Shere Bangla National Stadium
+18/01/2018,Australia ,England,England,won by 4 wickets,Brisbane Cricket Ground
+18/01/2018,New Zealand ,Pakistan,New Zealand,won by 15 runs,Basin Reserve
+19/01/2018,Bangladesh ,Sri Lanka,Bangladesh,won by 163 runs,Shere Bangla National Stadium
+21/01/2018,Australia ,England,England,won by 16 runs,Sydney Cricket Ground
+21/01/2018,Sri Lanka ,Zimbabwe,Sri Lanka,won by 5 wickets,Shere Bangla National Stadium
+23/01/2018,Bangladesh ,Zimbabwe,Bangladesh,won by 91 runs,Shere Bangla National Stadium
+25/01/2018,Bangladesh ,Sri Lanka,Sri Lanka,won by 10 wickets,Shere Bangla National Stadium
+26/01/2018,Australia,England,Australia,won by 3 wickets,Adelaide Oval
+27/01/2018,Bangladesh ,Sri Lanka,Sri Lanka,won by 79 runs,Shere Bangla National Stadium
+28/01/2018,Australia ,England,England,won by 12 runs,Perth Stadium
+01/02/2018,South Africa ,India,India,won by 6 wickets,Kingsmead
+04/02/2018,South Africa ,India,India,won by 9 wickets,SuperSport Park
+07/02/2018,South Africa ,India,India,won by 124 runs,Newlands
+09/02/2018,Afghanistan,Zimbabwe,Afghanistan,won by 154 runs,Sharjah Cricket Stadium
+10/02/2018,South Africa ,India,South Africa,won by 5 wickets,Wanderers Stadium
+11/02/2018,Afghanistan ,Zimbabwe,Zimbabwe,won by 154 runs,Sharjah Cricket Stadium
+13/02/2018,Afghanistan ,Zimbabwe,Afghanistan,won by 6 wickets,Sharjah Cricket Stadium
+13/02/2018,South Africa ,India,India,won by 73 runs,St George's Park
+16/02/2018,Afghanistan ,Zimbabwe,Afghanistan,won by 10 wickets,Sharjah Cricket Stadium
+16/02/2018,South Africa ,India,India,won by 8 wickets,SuperSport Park
+19/02/2018,Afghanistan ,Zimbabwe,Afghanistan,won by 146 runs,Sharjah Cricket Stadium
+25/02/2018,New Zealand ,England,New Zealand,won by 3 wickets,Seddon Park
+28/02/2018,New Zealand,England,England,won by 6 wickets,Bay Oval
+03/03/2018,New Zealand ,England,England,won by 4 runs,Sky Stadium
+04/03/2018,Afghanistan ,Scotland,Scotland,won by 7 wickets,Bulawayo Athletic Club
+06/03/2018,New Zealand ,England,New Zealand,won by 5 wickets,University Oval
+10/03/2018,New Zealand ,England,England,won by 7 wickets,Hagley Oval
+15/03/2018,Afghanistan ,West Indies,Afghanistan,won by 3 wickets,Harare Sports Club
+20/03/2018,Afghanistan ,United Arab Emirates,Afghanistan,won by 5 wickets,Old Hararians Sports Club
+23/03/2018,Afghanistan ,Ireland,Afghanistan,won by 5 wickets,Harare Sports Club
+25/03/2018,Afghanistan ,West Indies,Afghanistan,won by 7 wickets,Harare Sports Club
+10/06/2018,Scotland ,England,Scotland,won by 6 runs,Grange Cricket Club
+16/06/2018,England ,Australia,England,won by 38 runs,Sophia Gardens
+19/06/2018,England ,Australia,England,won by 242 runs,Trent Bridge
+21/06/2018,England ,Australia,England,won by 6 wickets,Riverside Ground
+24/06/2018,England ,Australia,England,won by 1 wicket,Old Trafford
+12/07/2018,England ,India,India,won by 8 wickets,Trent Bridge
+13/07/2018,Zimbabwe ,Pakistan,Pakistan,won by 201 runs,Queens Sports Club
+14/07/2018,England ,India,England,won by 86 runs,Lord's
+16/07/2018,Zimbabwe ,Pakistan,Pakistan,won by 9 wickets,Queens Sports Club
+17/07/2018,England ,India,England,won by 8 wickets,Headingley
+18/07/2018,Zimbabwe ,Pakistan,Pakistan,won by 9 wickets,Queens Sports Club
+20/07/2018,Zimbabwe ,Pakistan,Pakistan,won by 244 runs,Queens Sports Club
+22/07/2018,West Indies ,Bangladesh,Bangladesh,won by 48 runs,Providence Stadium
+22/07/2018,Zimbabwe ,Pakistan,Pakistan,won by 131 runs,Queens Sports Club
+25/07/2018,West Indies ,Bangladesh,West Indies ,won by 3 runs,Providence Stadium
+28/07/2018,West Indies ,Bangladesh,Bangladesh,won by 18 runs,Warner Park
+29/07/2018,Sri Lanka,South Africa,South Africa,won by 5 wickets,Rangiri Dambulla International Stadium
+01/08/2018,Netherlands ,Nepal,Netherlands,won by 55 runs,VRA Ground
+01/08/2018,Sri Lanka ,South Africa,South Africa,won by 4 wickets,Rangiri Dambulla International Stadium
+03/08/2018,Netherlands,Nepal,Nepal,won by 1 run,VRA Ground
+05/08/2018,Sri Lanka ,South Africa,South Africa,won by 78 runs,Pallekele International Cricket Stadium
+08/08/2018,Sri Lanka ,South Africa,Sri Lanka,won by 3 runs,Pallekele International Cricket Stadium
+12/08/2018,Sri Lanka,South Africa,Sri Lanka,won by 178 runs,R Premadasa Stadium
+27/08/2018,Ireland ,Afghanistan,Afghanistan,won by 29 runs,Civil Service Cricket Club
+29/08/2018,Ireland ,Afghanistan,Ireland,won by 3 wickets,Civil Service Cricket Club
+31/08/2018,Ireland ,Afghanistan,Afghanistan,won by 8 wickets,Civil Service Cricket Club
+15/09/2018,Bangladesh ,Sri Lanka,Bangladesh,won by 137 runs,Dubai International Cricket Stadium
+16/09/2018,Hong Kong,Pakistan,Pakistan,won by 8 wickets,Dubai International Cricket Stadium
+17/09/2018,Afghanistan ,Sri Lanka,Afghanistan,won by 91 runs,Sheikh Zayed Stadium
+18/09/2018,Hong Kong ,India,India,won by 26 runs,Dubai International Cricket Stadium
+19/09/2018,India ,Pakistan,India,won by 8 wickets,Dubai International Cricket Stadium
+20/09/2018,Afghanistan ,Bangladesh,Afghanistan,won by 136 runs,Sheikh Zayed Stadium
+21/09/2018,Bangladesh ,India,India,won by 7 wickets,Dubai International Cricket Stadium
+21/09/2018,Afghanistan ,Pakistan,Pakistan,won by 3 wickets,Sheikh Zayed Stadium
+23/09/2018,India ,Pakistan,India,won by 9 wickets,Dubai International Cricket Stadium
+23/09/2018,Afghanistan ,Bangladesh,Bangladesh,won by 3 runs,Sheikh Zayed Stadium
+25/09/2018,Afghanistan ,India,Match Tied,Match Tied,Dubai International Cricket Stadium
+26/09/2018,Bangladesh ,Pakistan,Bangladesh,won by 37 runs,Sheikh Zayed Stadium
+28/09/2018,Bangladesh ,India,India,won by 3 wickets,Dubai International Cricket Stadium
+30/09/2018,South Africa ,Zimbabwe,South Africa,won by 5 wickets,Diamond Oval
+03/10/2018,South Africa,Zimbabwe,South Africa,won by 120 runs,Mangaung Oval
+06/10/2018,South Africa,Zimbabwe,South Africa,won by 4 wickets,Boland Park
+10/10/2018,Sri Lanka ,England,No result,No result,Rangiri Dambulla International Stadium
+13/10/2018,Sri Lanka ,England,England,won by 31 runs,Rangiri Dambulla International Stadium
+17/10/2018,Sri Lanka ,England,England,won by 7 wickets,Pallekele International Cricket Stadium
+20/10/2018,Sri Lanka,England,England,won by 18 runs,Pallekele International Cricket Stadium
+21/10/2018,Bangladesh ,Zimbabwe,Bangladesh,won by 28 runs,Shere Bangla National Stadium
+21/10/2018,India ,West Indies,India,won by 8 wickets,Barsapara Cricket Stadium
+23/10/2018,Sri Lanka ,England,Sri Lanka,won by 219 runs,R Premadasa Stadium
+24/10/2018,Bangladesh,Zimbabwe,Bangladesh,won by 7 wickets,Zahur Ahmed Chowdhury Stadium
+24/10/2018,India ,West Indies,Match Tied,Match Tied,Dr YS Rajasekhara Reddy Cricket Stadium
+26/10/2018,Bangladesh ,Zimbabwe,Bangladesh,won by 7 wickets,Zahur Ahmed Chowdhury Stadium
+27/10/2018,India ,West Indies,West Indies,won by 43 runs,Maharashtra Cricket Association Stadium
+29/10/2018,India ,West Indies,India,won by 224 runs,Brabourne Stadium
+01/11/2018,India,West Indies,India,won by 9 wickets,Greenfield International Stadium
+04/11/2018,Australia ,South Africa,South Africa,won by 6 wickets,Perth Stadium
+07/11/2018,Pakistan,New Zealand,New Zealand,won by 47 runs,Sheikh Zayed Stadium
+09/11/2018,Australia ,South Africa,Australia,won by 7 runs,Adelaide Oval
+09/11/2018,Pakistan ,New Zealand,Pakistan,won by 6 wickets,Sheikh Zayed Stadium
+11/11/2018,Australia ,South Africa,South Africa,won by 40 runs,Bellerive Oval
+09/12/2018,Bangladesh ,West Indies,Bangladesh,won by 5 wickets,Shere Bangla National Stadium
+11/12/2018,Bangladesh ,West Indies,West Indies,won by 4 wickets,Shere Bangla National Stadium
+14/12/2018,Bangladesh ,West Indies,Bangladesh,won by 8 wickets,Sylhet Stadium
+03/01/2019,New Zealand,Sri Lanka,New Zealand,won by 45 runs,Bay Oval
+05/01/2019,New Zealand ,Sri Lanka,New Zealand,won by 21 runs,Bay Oval
+08/01/2019,New Zealand ,Sri Lanka,New Zealand,won by 115 runs,Saxton Oval
+12/01/2019,Australia ,India,Australia,won by 34 runs,Sydney Cricket Ground
+15/01/2019,Australia ,India,India ,won by 6 wickets,Adelaide Oval
+18/01/2019,Australia ,India,India ,won by 7 wickets,Melbourne Cricket Ground
+19/01/2019,South Africa ,Pakistan,Pakistan ,won by 5 wickets,St George's Park
+22/01/2019,South Africa ,Pakistan,South Africa ,won by 5 wickets,Kingsmead
+23/01/2019,New Zealand ,India,India ,won by 8 wickets,McLean Park
+25/01/2019,South Africa,Pakistan,South Africa ,won by 13 runs,SuperSport Park
+26/01/2019,New Zealand ,India,India ,won by 90 runs,Bay Oval
+27/01/2019,South Africa ,Pakistan,Pakistan,won by 8 wickets,Wanderers Stadium
+28/01/2019,New Zealand ,India,India ,won by 7 wickets,Bay Oval
+30/01/2019,South Africa ,Pakistan,South Africa ,won by 7 wickets,Newlands
+31/01/2019,New Zealand ,India,New Zealand,won by 8 wickets,Seddon Park
+03/02/2019,New Zealand ,India,India,won by 35 runs,Sky Stadium
+13/02/2019,New Zealand ,Bangladesh,New Zealand,won by 8 wickets,McLean Park
+16/02/2019,New Zealand,Bangladesh,New Zealand,won by 8 wickets,Hagley Oval
+20/02/2019,West Indies,England,England ,won by 6 wickets,Kensington Oval
+20/02/2019,New Zealand ,Bangladesh,New Zealand,won by 88 runs,University Oval
+22/02/2019,West Indies ,England,West Indies ,won by 26 runs,Kensington Oval
+25/02/2019,West Indies,England,No result,No result,National Cricket Stadium (Grenada)
+27/02/2019,West Indies ,England,England ,won by 29 runs,National Cricket Stadium (Grenada)
+28/02/2019,Ireland ,Afghanistan,Afghanistan ,won by 5 wickets,Rajiv Gandhi International Cricket Stadium
+01/03/2019,West Indies ,England,West Indies ,won by 7 wickets,Daren Sammy National Cricket Stadium
+02/03/2019,India  ,Australia,India,won by 6 wickets,Rajiv Gandhi International Stadium
+02/03/2019,Ireland ,Afghanistan,No result,No result,Rajiv Gandhi International Cricket Stadium
+03/03/2019,South Africa ,Sri Lanka,South Africa ,won by 8 wickets,Wanderers Stadium
+05/03/2019,India ,Australia,India,won by 8 runs,Vidarbha Cricket Association Stadium
+05/03/2019,Ireland ,Afghanistan,Ireland ,won by 4 wickets,Rajiv Gandhi International Cricket Stadium
+06/03/2019,South Africa ,Sri Lanka,South Africa ,won by 113 runs,SuperSport Park
+08/03/2019,India ,Australia,Australia,won by 32 runs,JSCA International Stadium Complex
+08/03/2019,Ireland ,Afghanistan,Afghanistan ,won by 109 runs,Rajiv Gandhi International Cricket Stadium
+10/03/2019,South Africa ,Sri Lanka,South Africa ,won by 71 runs,Kingsmead
+10/03/2019,India ,Australia,Australia,won by 4 wickets,Punjab Cricket Association IS Bindra Stadium
+10/03/2019,Ireland ,Afghanistan,Ireland ,won by 5 wickets,Rajiv Gandhi International Cricket Stadium
+13/03/2019,South Africa ,Sri Lanka,South Africa,won by 6 wickets,St George's Park
+13/03/2019,India ,Australia,Australia,won by 35 runs,Arun Jaitley Stadium
+16/03/2019,South Africa ,Sri Lanka,South Africa ,won by 41 runs,Newlands
+22/03/2019,Pakistan ,Australia,Australia,won by 8 wickets,Sharjah Cricket Stadium
+23/03/2019,Pakistan ,Australia,Australia,won by 8 wickets,Sharjah Cricket Stadium
+27/03/2019,Pakistan,Australia,Australia,won by 80 runs,Sheikh Zayed Stadium
+29/03/2019,Pakistan ,Australia,Australia,won by 6 runs,Dubai International Cricket Stadium
+31/03/2019,Pakistan ,Australia,Australia,won by 20 runs,Dubai International Cricket Stadium
+03/05/2019,Ireland ,England,England,won by 4 wickets,The Village
+05/05/2019,Ireland  ,West Indies,West Indies ,won by 196 runs,Castle Avenue
+07/05/2019,Bangladesh ,West Indies,Bangladesh ,won by 8 wickets,Castle Avenue
+08/05/2019,England ,Pakistan,No result,No result,Kennington Oval
+08/05/2019,Scotland ,Afghanistan,Match abandoned,Match abandoned,Grange Cricket Club
+09/05/2019,Ireland ,Bangladesh,Match abandoned,Match abandoned,The Village
+10/05/2019,Scotland ,Afghanistan,Afghanistan ,won by 2 runs,Grange Cricket Club
+11/05/2019,England,Pakistan,England,won by 12 runs,The Rose Bowl
+11/05/2019,Ireland ,West Indies,West Indies ,won by 5 wickets,The Village
+13/05/2019,Bangladesh ,West Indies,Bangladesh,won by 5 wickets,The Village
+14/05/2019,England,Pakistan,England,won by 6 wickets,County Ground (Bristol)
+15/05/2019,Ireland ,Bangladesh,Bangladesh,won by 6 wickets,Castle Avenue
+17/05/2019,England ,Pakistan,England,won by 3 wickets,Trent Bridge
+17/05/2019,Bangladesh ,West Indies,Bangladesh,won by 5 wickets,The Village
+18/05/2019,Scotland , Sri Lanka,Match abandoned,Match abandoned,Grange Cricket Club
+19/05/2019,Ireland ,Afghanistan,Ireland,won by 72 runs,Civil Service Cricket Club
+19/05/2019,England ,Pakistan,England,won by 54 runs,Headingley
+21/05/2019,Ireland ,Afghanistan,Afghanistan,won by 126 runs,Civil Service Cricket Club
+21/05/2019,Scotland ,Sri Lanka,Sri Lanka ,won by 35 runs,Grange Cricket Club
+30/05/2019,England ,South Africa,England,won by 104 runs,Kennington Oval
+31/05/2019,Pakistan ,West Indies,West Indies ,won by 7 wickets,Trent Bridge
+01/06/2019,New Zealand ,Sri Lanka,New Zealand,won by 10 wickets,Sophia Gardens
+01/06/2019,Afghanistan ,Australia,Australia,won by 7 wickets,County Ground (Bristol)
+02/06/2019,Bangladesh ,South Africa,Bangladesh,won by 21 runs,Kennington Oval
+03/06/2019,England ,Pakistan,Pakistan,won by 14 runs,Trent Bridge
+04/06/2019,Afghanistan ,Sri Lanka,Sri Lanka,won by 34 runs,Sophia Gardens
+05/06/2019,India ,South Africa,India,won by 6 wickets,The Rose Bowl
+05/06/2019,Bangladesh ,New Zealand,New Zealand,won by 2 wickets,Kennington Oval
+06/06/2019,Australia ,West Indies,Australia,won by 15 runs,Trent Bridge
+07/06/2019,Pakistan,Sri Lanka,Match abandoned,Match abandoned,County Ground (Bristol)
+08/06/2019,England ,Bangladesh,England,won by 106 runs,Sophia Gardens
+08/06/2019,Afghanistan ,New Zealand,New Zealand,won by 7 wickets,The Cooper Associates County Ground
+09/06/2019,Australia ,India,India,won by 36 runs,Kennington Oval
+10/06/2019,South Africa ,West Indies,No result,No result,The Rose Bowl
+11/06/2019,Bangladesh ,Sri Lanka,Match abandoned,Match abandoned,County Ground (Bristol)
+12/06/2019,Australia ,Pakistan,Australia,won by 41 runs,The Cooper Associates County Ground
+13/06/2019,India ,New Zealand,Match abandoned,Match abandoned,Trent Bridge
+14/06/2019,England,West Indies,England,won by 8 wickets,The Rose Bowl
+15/06/2019,Australia ,Sri Lanka,Australia,won by 87 runs,Kennington Oval
+15/06/2019,Afghanistan ,South Africa,South Africa,won by 9 wickets,Sophia Gardens
+16/06/2019,India ,Pakistan,India,won by 89 runs,Old Trafford
+17/06/2019,Bangladesh ,West Indies,Bangladesh,won by 7 wickets,The Cooper Associates County Ground
+18/06/2019,England ,Afghanistan,England,won by 150 runs,Old Trafford
+19/06/2019,Netherlands ,Zimbabwe,Netherlands ,won by 7 wickets,Sportspark Het Schootsveld
+19/06/2019,New Zealand,South Africa,New Zealand,won by 4 wickets,Edgbaston
+20/06/2019,Australia ,Bangladesh,Australia,won by 48 runs,Trent Bridge
+21/06/2019,Netherlands ,Zimbabwe,Netherlands ,won by 3 wickets,Sportspark Het Schootsveld
+21/06/2019,England ,Sri Lanka,Sri Lanka,won by 20 runs,Headingley
+22/06/2019,Afghanistan,India,India,won by 11 runs,The Rose Bowl
+22/06/2019,New Zealand ,West Indies,New Zealand,won by 5 runs,Old Trafford
+23/06/2019,Pakistan ,South Africa,Pakistan,won by 49 runs,Lord's
+24/06/2019,Afghanistan ,Bangladesh,Bangladesh,won by 62 runs,The Rose Bowl
+25/06/2019,England ,Australia,Australia,won by 64 runs,Lord's
+26/06/2019,New Zealand ,Pakistan,Pakistan,won by 6 wickets,Edgbaston
+27/06/2019,India ,West Indies,India,won by 125 runs,Old Trafford
+28/06/2019,South Africa ,Sri Lanka,South Africa,won by 9 wickets,Riverside Ground
+29/06/2019,Afghanistan ,Pakistan,Pakistan,won by 3 wickets,Headingley
+29/06/2019,Australia ,New Zealand,Australia,won by 86 runs,Lord's
+30/06/2019,England,India,England,won by 31 runs,Edgbaston
+01/07/2019,Sri Lanka ,West Indies,Sri Lanka,won by 23 runs,Riverside Ground
+02/07/2019,Bangladesh ,India,India,won by 28 runs,Edgbaston
+03/07/2019,England,New Zealand,England,won by 119 runs,Riverside Ground
+04/07/2019,Afghanistan ,West Indies,West Indies,won by 23 runs,Headingley
+06/07/2019,India ,Sri Lanka,India,won by 7 wickets,Headingley
+06/07/2019,Australia,South Africa,South Africa,won by 10 runs,Old Trafford
+09/07/2019,India ,New Zealand,New Zealand,won by 18 runs,Old Trafford
+11/07/2019,England ,Australia,England,won by 8 wickets,Edgbaston
+14/07/2019,England,New Zealand,England,won on boundary count after scores and super over were tied,Lord's
+26/07/2019,Sri Lanka,Bangladesh,Sri Lanka,won by 91 runs,R Premadasa Stadium
+28/07/2019,Sri Lanka,Bangladesh,Sri Lanka,won by 7 wickets,R Premadasa Stadium
+31/07/2019,Sri Lanka,Bangladesh,Sri Lanka,won by 122 runs,R Premadasa Stadium
+08/08/2019,West Indies,India,No result,No result,Providence Stadium
+11/08/2019,West Indies,India,India,won by 59 runs,Queen's Park Oval
+14/08/2019,West Indies,India,India,won by 6 wickets,Queen's Park Oval
+27/09/2019,Pakistan,Sri Lanka,Match abandoned,Match abandoned,National Stadium (Karachi)
+30/09/2019,Pakistan,Sri Lanka,Pakistan,won by 67 runs,National Stadium (Karachi)
+02/10/2019,Pakistan,Sri Lanka,Pakistan,won by 5 wickets,National Stadium (Karachi)
+06/11/2019,Afghanistan,West Indies,West Indies,won by 7 wickets,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+09/11/2019,Afghanistan,West Indies,West Indies,won by 47 runs,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+11/11/2019,Afghanistan,West Indies,West Indies,won by 5 wickets,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+15/12/2019,India,West Indies,West Indies,won by 8 wickets,MA Chidambaram Stadium
+18/12/2019,India,West Indies,India,won by 107 runs,Dr YS Rajasekhara Reddy Cricket Stadium
+22/12/2019,India,West Indies,India,won by 4 wickets,Barabati Stadium
+17/01/2020,India,Australia,India,won by 36 runs,Saurashtra Cricket Association Stadium
+19/01/2020,India,Australia,India,won by 7 wickets,M Chinnaswamy Stadium
+04/02/2020,South Africa,England,South Africa,won by 7 wickets,Newlands
+05/02/2020,New Zealand,India,New Zealand,won by 4 wickets,Seddon Park
+07/02/2020,South Africa,England,No result,No result,Kingsmead
+08/02/2020,New Zealand,India,New Zealand,won by 22 runs,Eden Park
+09/02/2020,South Africa,England,England,won by 2 wickets,Wanderers Stadium
+11/02/2020,New Zealand,India,New Zealand,won by 5 wickets,Bay Oval
+22/02/2020,Sri Lanka,West Indies,Sri Lanka,won by 1 wicket,Sinhalese Sports Club Ground
+26/02/2020,Sri Lanka,West Indies,Sri Lanka,won by 161 runs,Mahinda Rajapaksha International Cricket Stadium
+29/02/2020,South Africa,Australia,South Africa,won by 74 runs,Boland Park
+01/03/2020,Bangladesh,Zimbabwe,Bangladesh,won by 169 runs,Sylhet Stadium
+01/03/2020,Sri Lanka,West Indies,Sri Lanka,won by 6 runs,Pallekele International Cricket Stadium
+03/03/2020,Bangladesh,Zimbabwe,Bangladesh,won by 4 runs,Sylhet Stadium
+04/03/2020,South Africa,Australia,South Africa,won by 6 wickets,Mangaung Oval
+06/03/2020,Bangladesh,Zimbabwe,Bangladesh,won by 123 runs,Sylhet Stadium
+07/03/2020,South Africa,Australia,South Africa,won by 6 wickets,Senwes Park
+12/03/2020,India,South Africa,Match abandoned,Match abandoned,Himachal Pradesh Cricket Association Stadium
+13/03/2020,Australia,New Zealand,Australia,won by 71 runs,Sydney Cricket Ground
+15/03/2020,India,South Africa,Match abandoned,Match abandoned,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+18/03/2020,India,South Africa,Match abandoned,Match abandoned,Eden Gardens
+30/07/2020,England,Ireland,England,won by 6 wickets,The Rose Bowl
+01/08/2020,England,Ireland,England,won by 4 wickets,The Rose Bowl
+04/08/2020,England,Ireland,Ireland,won by 7 wickets,The Rose Bowl
+11/09/2020,England,Australia,Australia,won by 19 runs,Old Trafford
+13/09/2020,England,Australia,England,won by 24 runs,Old Trafford
+16/09/2020,England,Australia,Australia,won by 3 wickets,Old Trafford
+30/10/2020,Pakistan,Zimbabwe,Pakistan,won by 26 runs,Rawalpindi Cricket Stadium
+01/11/2020,Pakistan,Zimbabwe,Pakistan,won by 6 wickets,Rawalpindi Cricket Stadium
+27/11/2020,Australia,India,Australia,won by 66 runs,Sydney Cricket Ground
+29/11/2020,Australia,India,Australia,won by 51 runs,Sydney Cricket Ground
+02/12/2020,Australia,India,India,won by 13 runs,Manuka Oval
+20/01/2021,Bangladesh,West Indies,Bangladesh,won by 6 wickets,Shere Bangla National Stadium
+21/01/2021,Afghanistan,Ireland,Afghanistan,won by 16 runs,Sheikh Zayed Stadium
+22/01/2021,Bangladesh,West Indies,Bangladesh,won by 7 wickets,Shere Bangla National Stadium
+24/01/2021,Afghanistan,Ireland,Afghanistan,won by 7 wickets,Sheikh Zayed Stadium
+26/01/2021,Afghanistan,Ireland,Afghanistan,won by 36 runs,Sheikh Zayed Stadium
+10/03/2021,West Indies,Sri Lanka,West Indies,won by 8 wickets,Sir Vivian Richards Stadium
+12/03/2021,West Indies,Sri Lanka,West Indies,won by 5 wickets,Sir Vivian Richards Stadium
+14/03/2021,West Indies,Sri Lanka,West Indies,won by 5 wickets,Sir Vivian Richards Stadium
+20/03/2021,New Zealand,Bangladesh,New Zealand,won by 8 wickets,University Oval
+23/03/2021,India,England,India,won by 66 runs,Maharashtra Cricket Association Stadium
+23/03/2021,New Zealand,Bangladesh,New Zealand,won by 5 wickets,Hagley Oval
+26/03/2021,India,England,England,won by 6 wickets,Maharashtra Cricket Association Stadium
+26/03/2021,New Zealand,Bangladesh,New Zealand,won by 164 runs,Basin Reserve
+28/03/2021,India,England,India,won by 7 runs,Maharashtra Cricket Association Stadium
+02/04/2021,South Africa,Pakistan,Pakistan,won by 3 wickets,SuperSport Park
+04/04/2021,South Africa,Pakistan,South Africa,won by 17 runs,Wanderers Stadium
+07/04/2021,South Africa,Pakistan,Pakistan,won by 28 runs,SuperSport Park
+19/05/2021,Netherlands,Scotland,Netherlands,won by 14 runs,Hazelaarweg
+20/05/2021,Netherlands,Scotland,Scotland,won by 6 wickets,Hazelaarweg
+23/05/2021,Bangladesh,Sri Lanka,Bangladesh,won by 33 runs,Shere Bangla National Stadium
+25/05/2021,Bangladesh,Sri Lanka,Bangladesh,won by 103 runs,Shere Bangla National Stadium
+28/05/2021,Bangladesh,Sri Lanka,Sri Lanka,won by 97 runs,Shere Bangla National Stadium
+02/06/2021,Netherlands,Ireland,Netherlands,won by 1 run,Sportspark Maarschalkerweerd
+04/06/2021,Netherlands,Ireland,Ireland,won by 8 wickets,Sportspark Maarschalkerweerd
+07/06/2021,Netherlands,Ireland,Netherlands,won by 4 wickets,Sportspark Maarschalkerweerd
+29/06/2021,England,Sri Lanka,England,won by 5 wickets,Riverside Ground
+01/07/2021,England,Sri Lanka,England,won by 8 wickets,Kennington Oval
+04/07/2021,England,Sri Lanka,No result,No result,County Ground (Bristol)
+08/07/2021,England,Pakistan,England,won by 9 wickets,Sophia Gardens
+10/07/2021,England,Pakistan,England,won by 52 runs,Lord's
+11/07/2021,Ireland,South Africa,No result,No result,The Village
+13/07/2021,Ireland,South Africa,Ireland,won by 43 runs,The Village
+13/07/2021,England,Pakistan,England,won by 3 wickets,Edgbaston
+16/07/2021,Zimbabwe,Bangladesh,Bangladesh,won by 155 runs,Harare Sports Club
+16/07/2021,Ireland,South Africa,South Africa,won by 70 runs,The Village
+18/07/2021,Sri Lanka,India,India,won by 7 wickets,R Premadasa Stadium
+18/07/2021,Zimbabwe,Bangladesh,Bangladesh,won by 3 wickets,Harare Sports Club
+20/07/2021,West Indies,Australia,Australia,won by 133 runs,Kensington Oval
+20/07/2021,Sri Lanka,India,India,won by 3 wickets,R Premadasa Stadium
+20/07/2021,Zimbabwe,Bangladesh,Bangladesh,won by 5 wickets,Harare Sports Club
+23/07/2021,Sri Lanka,India,Sri Lanka,won by 3 wickets,R Premadasa Stadium
+24/07/2021,West Indies,Australia,West Indies,won by 4 wickets,Kensington Oval
+26/07/2021,West Indies,Australia,Australia,won by 6 wickets,Kensington Oval
+02/09/2021,Sri Lanka,South Africa,Sri Lanka,won by 14 runs,R Premadasa Stadium
+04/09/2021,Sri Lanka,South Africa,South Africa,won by 67 runs,R Premadasa Stadium
+07/09/2021,Sri Lanka,South Africa,Sri Lanka,won by 78 runs,R Premadasa Stadium
+17/09/2021,Pakistan,New Zealand,Match abandoned,Match abandoned,Rawalpindi Cricket Stadium
+26/11/2021,South Africa,Netherlands,No result,No result,SuperSport Park
+16/01/2022,Sri Lanka,Zimbabwe,Sri Lanka,won by 5 wickets,Pallekele International Cricket Stadium
+18/01/2022,Sri Lanka,Zimbabwe,Zimbabwe,won by 22 runs,Pallekele International Cricket Stadium
+19/01/2022,South Africa,India,South Africa,won by 31 runs,Boland Park
+21/01/2022,Afghanistan,Netherlands,Afghanistan,won by 36 runs,West End Park International Cricket Stadium
+21/01/2022,South Africa,India,South Africa,won by 7 wickets,Boland Park
+21/01/2022,Sri Lanka,Zimbabwe,Sri Lanka,won by 184 runs,Pallekele International Cricket Stadium
+23/01/2022,Afghanistan,Netherlands,Afghanistan,won by 48 runs,West End Park International Cricket Stadium
+23/01/2022,South Africa,India,South Africa,won by 4 runs,Newlands
+25/01/2022,Afghanistan,Netherlands,Afghanistan,won by 75 runs,West End Park International Cricket Stadium
+06/02/2022,India,West Indies,India,won by 6 wickets,Narendra Modi Stadium
+09/02/2022,India,West Indies,India,won by 44 runs,Narendra Modi Stadium
+11/02/2022,India,West Indies,India,won by 96 runs,Narendra Modi Stadium
+23/02/2022,Bangladesh,Afghanistan,Bangladesh,won by 4 wickets,Zahur Ahmed Chowdhury Stadium
+25/02/2022,Bangladesh,Afghanistan,Bangladesh,won by 88 runs,Zahur Ahmed Chowdhury Stadium
+28/02/2022,Bangladesh,Afghanistan,Afghanistan,won by 7 wickets,Zahur Ahmed Chowdhury Stadium
+18/03/2022,South Africa,Bangladesh,Bangladesh,won by 38 runs,SuperSport Park
+20/03/2022,South Africa,Bangladesh,South Africa,won by 7 wickets,Wanderers Stadium
+23/03/2022,South Africa,Bangladesh,Bangladesh,won by 9 wickets,SuperSport Park
+29/03/2022,New Zealand,Netherlands,New Zealand,won by 7 wickets,Bay Oval
+29/03/2022,Pakistan,Australia,Australia,won by 88 runs,Gaddafi Stadium
+31/03/2022,Pakistan,Australia,Pakistan,won by 6 wickets,Gaddafi Stadium
+02/04/2022,Pakistan,Australia,Pakistan,won by 9 wickets,Gaddafi Stadium
+03/04/2022,New Zealand,Netherlands,New Zealand,won by 118 runs,Seddon Park
+04/04/2022,New Zealand,Netherlands,New Zealand,won by 115 runs,Seddon Park
+31/05/2022,Netherlands,West Indies,West Indies,won by 7 wickets,VRA Ground
+02/06/2022,Netherlands,West Indies,West Indies,won by 5 wickets,VRA Ground
+04/06/2022,Zimbabwe,Afghanistan,Afghanistan,won by 60 runs,Harare Sports Club
+06/06/2022,Zimbabwe,Afghanistan,Afghanistan,won by 8 wickets,Harare Sports Club
+08/06/2022,Pakistan,West Indies,Pakistan,won by 5 wickets,Multan Cricket Stadium
+09/06/2022,Zimbabwe,Afghanistan,Afghanistan,won by 4 wickets,Harare Sports Club
+10/06/2022,Pakistan,West Indies,Pakistan,won by 120 runs,Multan Cricket Stadium
+12/06/2022,Pakistan,West Indies,Pakistan,won by 53 runs,Multan Cricket Stadium
+14/06/2022,Sri Lanka,Australia,Australia,won by 2 wickets,Pallekele International Cricket Stadium
+16/06/2022,Sri Lanka,Australia,Sri Lanka,won by 26 runs,Pallekele International Cricket Stadium
+17/06/2022,Netherlands,England,England,won by 232 runs,VRA Ground
+19/06/2022,Netherlands,England,England,won by 6 wickets,VRA Ground
+19/06/2022,Sri Lanka,Australia,Sri Lanka,won by 6 wickets,R Premadasa Stadium
+21/06/2022,Sri Lanka,Australia,Sri Lanka,won by 4 runs,R Premadasa Stadium
+22/06/2022,Netherlands,England,England,won by 8 wickets,VRA Ground
+24/06/2022,Sri Lanka,Australia,Australia,won by 4 wickets,R Premadasa Stadium
+10/07/2022,Ireland,New Zealand,New Zealand,won by 1 wicket,The Village
+10/07/2022,West Indies,Bangladesh,Bangladesh,won by 6 wickets,Providence Stadium
+12/07/2022,England,India,India,won by 10 wickets,Kennington Oval
+12/07/2022,Ireland,New Zealand,New Zealand,won by 3 wickets,The Village
+13/07/2022,West Indies,Bangladesh,Bangladesh,won by 9 wickets,Providence Stadium
+14/07/2022,England,India,England,won by 100 runs,Lord's
+15/07/2022,Ireland,New Zealand,New Zealand,won by 1 run,The Village
+16/07/2022,West Indies,Bangladesh,Bangladesh,won by 4 wickets,Providence Stadium
+17/07/2022,England,India,India,won by 5 wickets,Old Trafford
+19/07/2022,England,South Africa,South Africa,won by 62 runs,Riverside Ground
+22/07/2022,West Indies,India,India,won by 3 runs,Queen's Park Oval
+22/07/2022,England,South Africa,England,won by 118 runs,Old Trafford
+24/07/2022,West Indies,India,India,won by 2 wickets,Queen's Park Oval
+24/07/2022,England,South Africa,No result,No result,Headingley
+27/07/2022,West Indies,India,India,won by 119 runs,Queen's Park Oval
+31/07/2022,Scotland,New Zealand,New Zealand,won by 7 wickets,Grange Cricket Club
+05/08/2022,Zimbabwe,Bangladesh,Zimbabwe,won by 5 wickets,Harare Sports Club
+07/08/2022,Zimbabwe,Bangladesh,Zimbabwe,won by 5 wickets,Harare Sports Club
+10/08/2022,Zimbabwe,Bangladesh,Bangladesh,won by 105 runs,Harare Sports Club
+16/08/2022,Netherlands,Pakistan,Pakistan,won by 16 runs,Hazelaarweg
+17/08/2022,West Indies,New Zealand,West Indies,won by 5 wickets,Kensington Oval
+18/08/2022,Zimbabwe,India,India,won by 10 wickets,Harare Sports Club
+18/08/2022,Netherlands,Pakistan,Pakistan,won by 7 wickets,Hazelaarweg
+19/08/2022,West Indies,New Zealand,New Zealand,won by 50 runs,Kensington Oval
+20/08/2022,Zimbabwe,India,India,won by 5 wickets,Harare Sports Club
+21/08/2022,Netherlands,Pakistan,Pakistan,won by 9 runs,Hazelaarweg
+21/08/2022,West Indies,New Zealand,New Zealand,won by 5 wickets,Kensington Oval
+22/08/2022,Zimbabwe,India,India,won by 13 runs,Harare Sports Club
+28/08/2022,Australia,Zimbabwe,Australia,won by 5 wickets,Riverway Stadium
+31/08/2022,Australia,Zimbabwe,Australia,won by 8 wickets,Riverway Stadium
+03/09/2022,Australia,Zimbabwe,Zimbabwe,won by 3 wickets,Riverway Stadium
+06/09/2022,Australia,New Zealand,Australia,won by 2 wickets,Cazaly's Stadium
+08/09/2022,Australia,New Zealand,Australia,won by 113 runs,Cazaly's Stadium
+11/09/2022,Australia,New Zealand,Australia,won by 25 runs,Cazaly's Stadium
+06/10/2022,India,South Africa,South Africa,won by 9 runs,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+09/10/2022,India,South Africa,India,won by 7 wickets,JSCA International Stadium Complex
+11/10/2022,India,South Africa,India,won by 7 wickets,Arun Jaitley Stadium
+17/11/2022,Australia,England,Australia,won by 6 wickets,Adelaide Oval
+19/11/2022,Australia,England,Australia,won by 72 runs,Sydney Cricket Ground
+22/11/2022,Australia,England,Australia,won by 221 runs,Melbourne Cricket Ground
+25/11/2022,New Zealand,India,New Zealand,won by 7 wickets,Eden Park
+25/11/2022,Sri Lanka,Afghanistan,Afghanistan,won by 60 runs,Pallekele International Cricket Stadium
+27/11/2022,New Zealand,India,No result,No result,Seddon Park
+27/11/2022,Sri Lanka,Afghanistan,No result,No result,Pallekele International Cricket Stadium
+30/11/2022,New Zealand,India,No result,No result,Hagley Oval
+30/11/2022,Sri Lanka,Afghanistan,Sri Lanka,won by 4 wickets,Pallekele International Cricket Stadium
+04/12/2022,Bangladesh,India,Bangladesh,won by 1 wicket,Shere Bangla National Stadium
+07/12/2022,Bangladesh,India,Bangladesh,won by 5 runs,Shere Bangla National Stadium
+10/12/2022,Bangladesh,India,India,won by 227 runs,Zahur Ahmed Chowdhury Stadium
+09/01/2023,Pakistan,New Zealand,Pakistan,won by 6 wickets,National Stadium (Karachi)
+10/01/2023,India,Sri Lanka,India,won by 67 runs,Barsapara Cricket Stadium
+11/01/2023,Pakistan,New Zealand,New Zealand,won by 79 runs,National Stadium (Karachi)
+12/01/2023,India,Sri Lanka,India,won by 4 wickets,Eden Gardens
+15/01/2023,India,Sri Lanka,India,won by 317 runs,Greenfield International Stadium
+18/01/2023,India,New Zealand,India,won by 12 runs,Rajiv Gandhi International Stadium
+21/01/2023,India,New Zealand,India,won by 8 wickets,Shaheed Veer Narayan Sing International Stadium
+24/01/2023,India,New Zealand,India,won by 90 runs,Holkar Cricket Stadium
+27/01/2023,South Africa,England,South Africa,won by 27 runs,Mangaung Oval
+29/01/2023,South Africa,England,South Africa,won by 5 wickets,Mangaung Oval
+01/02/2023,South Africa,England,England,won by 59 runs,Diamond Oval
+01/03/2023,Bangladesh,England,England,won by 3 wickets,Shere Bangla National Stadium
+03/03/2023,Bangladesh,England,England,won by 132 runs,Shere Bangla National Stadium
+06/03/2023,Bangladesh,England,Bangladesh,won by 50 runs,Zahur Ahmed Chowdhury Stadium
+16/03/2023,South Africa,West Indies,Match abandoned,Match abandoned,Buffalo Park
+17/03/2023,India,Australia,India,won by 5 wickets,Wankhede Stadium
+18/03/2023,Bangladesh,Ireland,Bangladesh,won by 183 runs,Sylhet Stadium
+18/03/2023,South Africa,West Indies,West Indies,won by 48 runs,Buffalo Park
+19/03/2023,India,Australia,Australia,won by 10 wickets,Dr YS Rajasekhara Reddy Cricket Stadium
+20/03/2023,Bangladesh,Ireland,No result,No result,Sylhet Stadium
+21/03/2023,Zimbabwe,Netherlands,Netherlands,won by 3 wickets,Harare Sports Club
+21/03/2023,South Africa,West Indies,South Africa,won by 4 wickets,Senwes Park
+22/03/2023,India,Australia,Australia,won by 21 runs,MA Chidambaram Stadium
+23/03/2023,Zimbabwe,Netherlands,Zimbabwe,won by 1 run,Harare Sports Club
+23/03/2023,Bangladesh,Ireland,Bangladesh,won by 10 wickets,Sylhet Stadium
+25/03/2023,New Zealand,Sri Lanka,New Zealand,won by 198 runs,Eden Park
+25/03/2023,Zimbabwe,Netherlands,Zimbabwe,won by 7 wickets,Harare Sports Club
+28/03/2023,New Zealand,Sri Lanka,Match abandoned,Match abandoned,Hagley Oval
+31/03/2023,South Africa,Netherlands,South Africa,won by 8 wickets,Willowmoore Park
+31/03/2023,New Zealand,Sri Lanka,New Zealand,won by 6 wickets,Seddon Park
+27/04/2023,Pakistan,New Zealand,Pakistan,won by 5 wickets,Rawalpindi Cricket Stadium
+29/04/2023,Pakistan,New Zealand,Pakistan,won by 7 wickets,Rawalpindi Cricket Stadium
+03/05/2023,Pakistan,New Zealand,Pakistan,won by 26 runs,National Stadium (Karachi)
+05/05/2023,Pakistan,New Zealand,Pakistan,won by 102 runs,National Stadium (Karachi)
+07/05/2023,Pakistan,New Zealand,New Zealand,won by 47 runs,National Stadium (Karachi)
+09/05/2023,Ireland,Bangladesh,No result,No result,County Ground (Chelmsford)
+12/05/2023,Ireland,Bangladesh,Bangladesh,won by 3 wickets,County Ground (Chelmsford)
+14/05/2023,Ireland,Bangladesh,Bangladesh,won by 5 runs,County Ground (Chelmsford)
+02/06/2023,Sri Lanka,Afghanistan,Afghanistan,won by 6 wickets,Mahinda Rajapaksha International Cricket Stadium
+04/06/2023,Sri Lanka,Afghanistan,Sri Lanka,won by 132 runs,Mahinda Rajapaksha International Cricket Stadium
+07/06/2023,Sri Lanka,Afghanistan,Sri Lanka,won by 9 wickets,Mahinda Rajapaksha International Cricket Stadium
+19/06/2023,Sri Lanka,United Arab Emirates,Sri Lanka,won by 175 runs,Queens Sports Club
+23/06/2023,Oman,Sri Lanka,Sri Lanka,won by 10 wickets,Queens Sports Club
+24/06/2023,Nepal,Netherlands,Netherlands,won by 7 wickets,Takashinga Sports Club
+25/06/2023,Ireland,Sri Lanka,Sri Lanka,won by 133 runs,Queens Sports Club
+27/06/2023,Scotland,Sri Lanka,Sri Lanka,won by 82 runs,Queens Sports Club
+30/06/2023,Netherlands,Sri Lanka,Sri Lanka,won by 21 runs,Queens Sports Club
+03/07/2023,Netherlands,Oman,Netherlands,won by 74 runs,Harare Sports Club
+05/07/2023,Bangladesh,Afghanistan,Afghanistan,won by 17 runs,Zahur Ahmed Chowdhury Stadium
+06/07/2023,Netherlands,Scotland,Netherlands,won by 4 wickets,Queens Sports Club
+07/07/2023,Sri Lanka,West Indies,Sri Lanka,won by 8 wickets,Harare Sports Club
+08/07/2023,Bangladesh,Afghanistan,Afghanistan,won by 142 runs,Zahur Ahmed Chowdhury Stadium
+09/07/2023,Netherlands,Sri Lanka,Sri Lanka,won by 128 runs,Harare Sports Club
+11/07/2023,Bangladesh,Afghanistan,Bangladesh,won by 7 wickets,Zahur Ahmed Chowdhury Stadium
