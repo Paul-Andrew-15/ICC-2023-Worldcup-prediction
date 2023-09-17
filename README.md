@@ -18,7 +18,7 @@ The 2023 Cricket World Cup winner prediction using the Random Forest algorithm i
 I have collected data from HowStat.com, which includes the results of ODI matches since the 2015 World Cup. While I acknowledge that the model's accuracy may not be exceptionally high, I believe it provides a reasonably good sense of the trends. I chose not to include matches prior to the 2015 World Cup because I consider recent results to be more influential, with older data carrying less weight. For the remaining data files, I sourced them from the Cricbuzz website.
 
 ## Environment and tools
-1. Jupyter Notebook
+1. Google Colab
 2. Numpy
 3. Pandas
 4. Seaborn
