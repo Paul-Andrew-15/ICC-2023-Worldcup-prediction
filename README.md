@@ -5,6 +5,8 @@
 
 The 2023 Cricket World Cup winner prediction using the Random Forest algorithm involves a machine learning technique that analyzes various historical and current cricket data factors, such as team performance, player statistics, pitch conditions, and more. By considering these factors, the Random Forest algorithm generates predictions for the tournament's winner. This method enhances the accuracy of predictions by aggregating multiple decision trees and ultimately helps cricket enthusiasts and analysts make informed guesses about the potential champion of the 2023 Cricket World Cup. 
 
+Check out the corresponding medium blog post: https://medium.com/@paulandrew1507/the-road-to-glory-predicting-the-icc-world-cup-2023-champion-dd44f9328bd2
+
 ## Goals
 
 * To forecast the tournament's winner with a high degree of accuracy, based on historical and current data.
